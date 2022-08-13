@@ -7,9 +7,9 @@
 SoftwareSerial mySerial(D1, D2); // (RX, TX)
 
 // WiFi parameters
-const char* ssid = "salt2g";            // WiFi's name
-const char* password = "68686668";   // and password
-
+const char* ssid = "salt";            // WiFi's name
+const char* password = "phanhoang";   // and password
+// Hotspot IP: 192.168.197.237 
 String header;
 
 // Initiate server at port 80
